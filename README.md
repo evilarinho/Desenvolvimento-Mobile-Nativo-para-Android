@@ -28,8 +28,27 @@ Setup: Elementos Centrais
 
 --------------------------------------------------------
 AULA: ANDROID NATIVO - AMBIENTE DE DESENVOLVIMENTO
-- [ ] Android Nativo - Ambiente de Desenvolvimento   +22/07
+- [x] Android Nativo - Ambiente de Desenvolvimento   *22/07
 
+Criar um novo projeto no Android Studio
+versão do Android Studio do instrutor: Artic Fox | 2020.3.1 Patch 4
+
+versão de estudo em 22/07/2022
+Android Studio Arctic Fox | 2020.3.1 Patch 3
+Build #AI-203.7717.56.2031.7784292, built on September 30, 2021
+Runtime version: 11.0.10+0-b96-7249189 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+Linux 5.4.0-120-generic
+GC: G1 Young Generation, G1 Old Generation
+Memory: 1280M
+Cores: 4
+Registry: external.system.auto.import.disabled=true
+Non-Bundled Plugins: Dart, io.flutter
+Current Desktop: X-Cinnamon
+
+Criado projeto simulator no Android Studio
+
+git commit -m "Android Nativo - Ambiente de Desenvolvimento - Criado projeto simulator no Android Studio e atualizado: README.md"
 --------------------------------------------------------
 AULA: ANDROID NATIVO - ESTRUTURA DE PROJETOS ANDROID
 - [ ] Estrutura de Projetos Android: Teoria   +22/07
